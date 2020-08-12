@@ -1,7 +1,7 @@
 {
   "name": "project",
   "version": "1.0.0",
-  "description": "",
+  "description": "# 2. Install the following npm packages",
   "main": "./src/script.js",
   "dependencies": {
     "react": "^16.13.1",
@@ -24,5 +24,13 @@
     "start": "webpack-dev-server"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJMcDee/ReactBoilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AJMcDee/ReactBoilerplate/issues"
+  },
+  "homepage": "https://github.com/AJMcDee/ReactBoilerplate#readme"
 }
